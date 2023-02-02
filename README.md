@@ -1,2 +1,2 @@
 # Baxert_robot_project
-Programming and documentation are privet.  
+Programming, Code and documentation are privet.  
